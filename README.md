@@ -1,6 +1,5 @@
 # InAir4 Setup 
-* auto-gen TOC:
-{:toc}
+
 
 ##InAir4 Pinouts
 

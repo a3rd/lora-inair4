@@ -36,19 +36,19 @@ The pins are labelled as follows. Make sure that the model is inAir4 - this shou
 
 ## Module Image
 
-![inAir4 Image](https://cloud.githubusercontent.com/assets/6830154/9263753/1c1a8d3c-4263-11e5-8cd1-7023b1fc0c16.jpg 200x200)
+![inAir4 Image](https://cloud.githubusercontent.com/assets/6830154/9263753/1c1a8d3c-4263-11e5-8cd1-7023b1fc0c16.jpg [height=2in])
 
 ## Bottom View
 
-![inAir4 Bottom View](https://cloud.githubusercontent.com/assets/6830154/9263729/e834d1e4-4262-11e5-9c69-55152146cd1b.jpg 200x200)
+![inAir4 Bottom View](https://cloud.githubusercontent.com/assets/6830154/9263729/e834d1e4-4262-11e5-9c69-55152146cd1b.jpg [height=2in])
 
 ##Pin Layout
 
-![inAir4 Pin Layout](ttps://cloud.githubusercontent.com/assets/6830154/9263731/ece3c20e-4262-11e5-90cd-973d31fcff24.gif 200x200)
+![inAir4 Pin Layout](ttps://cloud.githubusercontent.com/assets/6830154/9263731/ece3c20e-4262-11e5-90cd-973d31fcff24.gif [height=2in])
 
 ## Schematic 
 
-![inAir4 Schematic](https://cloud.githubusercontent.com/assets/6830154/9263723/d29a771c-4262-11e5-85eb-6f83b0d87d32.jpg 200x200)
+![inAir4 Schematic](https://cloud.githubusercontent.com/assets/6830154/9263723/d29a771c-4262-11e5-85eb-6f83b0d87d32.jpg [height=2in])
 
 # Setting up the LoRa InAir4 Module with Arduino Pro Micro
 

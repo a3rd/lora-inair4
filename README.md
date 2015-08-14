@@ -2,6 +2,10 @@
 
 ## InAir4 Pinouts
 
+The InAir4 module is manufactuered by Modtronix, and with a Semtech SX1278 (SX1276) LoRa Module, set to __433MHz__, 3.3V input, SMA Connector. Modtronix has a range of antennas that can be used with the LoRa module that are avialable as well.
+
+http://modtronix.com/inair4.html
+
 The pins are labelled as follows. Make sure that the model is inAir4 - this should be printed on the PCB.
 
 |()||()|
@@ -36,25 +40,21 @@ The pins are labelled as follows. Make sure that the model is inAir4 - this shou
 
 ## Module Image
 
-![inAir4 Image](https://cloud.githubusercontent.com/assets/6830154/9263753/1c1a8d3c-4263-11e5-8cd1-7023b1fc0c16.jpg [height=2in])
+![inAir4 Image](https://cloud.githubusercontent.com/assets/6830154/9263753/1c1a8d3c-4263-11e5-8cd1-7023b1fc0c16.jpg )
 
 ## Bottom View
 
-![inAir4 Bottom View](https://cloud.githubusercontent.com/assets/6830154/9263729/e834d1e4-4262-11e5-9c69-55152146cd1b.jpg [height=2in])
+![inAir4 Bottom View](https://cloud.githubusercontent.com/assets/6830154/9263729/e834d1e4-4262-11e5-9c69-55152146cd1b.jpg )
 
 ##Pin Layout
 
-![inAir4 Pin Layout](ttps://cloud.githubusercontent.com/assets/6830154/9263731/ece3c20e-4262-11e5-90cd-973d31fcff24.gif [height=2in])
+![inAir4 Pin Layout](ttps://cloud.githubusercontent.com/assets/6830154/9263731/ece3c20e-4262-11e5-90cd-973d31fcff24.gif )
 
 ## Schematic 
 
-![inAir4 Schematic](https://cloud.githubusercontent.com/assets/6830154/9263723/d29a771c-4262-11e5-85eb-6f83b0d87d32.jpg [height=2in])
+![inAir4 Schematic](https://cloud.githubusercontent.com/assets/6830154/9263723/d29a771c-4262-11e5-85eb-6f83b0d87d32.jpg )
 
 # Setting up the LoRa InAir4 Module with Arduino Pro Micro
-
-The InAir4 module is manufactuered by Modtronix, and with a Semtech SX1278 (SX1276) LoRa Module, set to __433MHz__, 3.3V input, SMA Connector. Modtronix has a range of antennas that can be used with the LoRa module that are avialable as well.
-
-[http://modtronix.com/inair4.html]
 
 The example code in this repo using GPIOs that can be configured accordingly, here we are using the Arduino Pro Micro.
 

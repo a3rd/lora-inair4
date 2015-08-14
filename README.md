@@ -60,14 +60,14 @@ The example code in this repo using GPIOs that can be configured accordingly, he
 
 To keep things simple the pins are wired as follows:
 
-|ProMicro|()||()|ProMicro|
+|ProMicro|()	  |			|	()	|ProMicro|
 |:------:|:------:|:------:|:------:|
-|**GND** |GND| |NC||
+|**GND** |GND	  | |NC||
 |**18**|CS| |3.3V|**3.3VDC**|
-||?| |SCK|**SCK**|
+| |?| |SCK|**SCK**|
 |**21**|RST| |MISO|**MISO**|
-||?| |MOSI|**MOSI**|
-||?||NC||
+| |?| |MOSI|**MOSI**|
+| |?||NC||
 |**20**|DIO2||VSWITCH|**3.3VDC**|
 
 
